@@ -1,0 +1,5 @@
+exportPattern("^[[:alpha:]]+")
+import("ggplot2", "minpack.lm", "pracma", "ptw")
+importFrom("graphics", "lines", "plot", "title")
+importFrom("stats", "coefficients", "lm", "nls", "predict", "spline")
+importFrom("utils", "read.csv")
