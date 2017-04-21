@@ -1,9 +1,9 @@
-427cc77f0b338b7b244bad712edf5ab3 *DESCRIPTION
+5cacd26549126ad97df626ea6397fa68 *DESCRIPTION
 88510729b7c0b9b952e33fcc99936516 *NAMESPACE
-62f0db1bbea8ba637db9c56306301dd7 *R/processPeak.R
+83d063ffa9078ebbc99c15d95494c1d6 *R/processPeak.R
 6dedd26bab4b7198f1d4ffd5c1a173e3 *R/readChrom.R
-9e898564c5e91fe62173e159266e1e17 *R/vanDeemterAlternative.R
-d0a59bf1394e739943f8acf3f68c2765 *R/vanDeemterClassic.R
+dc5cfb2e027b24c0d3879bdc8a350437 *R/vanDeemter.R
+65fc67d100fc09253eefe2f5d9f79d11 *R/vanDeemterAlternative.R
 23668b65b721642d5e59037488ba9853 *data/col.rda
 95d4fed6c4572e1b83301137df4737f5 *data/parameters_col_metoxi.rda
 d2dd43f4bf6371f1cb92f309a606ad66 *data/parameters_dead.rda
@@ -14,7 +14,7 @@ d2dd43f4bf6371f1cb92f309a606ad66 *data/parameters_dead.rda
 f5c5538b42d2fd0bfd8ca474dbf9a83d *man/parameters_dead.Rd
 f7542798da08a3d32a9d953c242814ca *man/parameters_ext.Rd
 854d576fde625c4819ba9a53e4bc4b85 *man/peak.Rd
-251843d5a4a2298dc9c84433ea2a0aad *man/processPeak.Rd
-849334d97960a61deabb65c5e669ddd1 *man/readChrom.Rd
-6d709b7366b70679cdf0851861cbba2d *man/vanDeemterAlternative.Rd
-5d15786fd82caf770b4e963fcdb6bf60 *man/vanDeemterClassic.Rd
+5645fa4101178e7cfa4b6d342f511614 *man/processPeak.Rd
+4fea06c0e2d0c746c0a11dc24aa4f6cf *man/readChrom.Rd
+226c65193f44847ce3a5827707222dbc *man/vanDeemter.Rd
+d64a784356a2905d7bc50557f47b9c2a *man/vanDeemterAlternative.Rd

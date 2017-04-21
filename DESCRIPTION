@@ -2,7 +2,7 @@ Package: RpeakChrom
 Type: Package
 Title: Tools for Chromatographic Column Characterization and Modelling
         Chromatographic Peak
-Version: 0.1.0
+Version: 1.1.0
 Author: Manuel David Peris Diaz, Maria Isabel Alcoriza Balaguer
 Depends: R (>= 2.10.1), ggplot2, minpack.lm, pracma, ptw
 Maintainer: Manuel David Peris Diaz <madape@alumni.uv.es>
@@ -10,6 +10,6 @@ Description: The quantitative measurement and detection of molecules in HPLC sho
 License: GPL-2
 LazyData: TRUE
 NeedsCompilation: no
-Packaged: 2016-12-14 19:47:02 UTC; maribel
+Packaged: 2017-04-11 15:26:31 UTC; maribel
 Repository: CRAN
-Date/Publication: 2016-12-14 23:50:18
+Date/Publication: 2017-04-21 18:02:34 UTC
